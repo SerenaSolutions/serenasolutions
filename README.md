@@ -17,3 +17,8 @@ O único agente que opera **clássico + quântico + pós-quântico** num só ker
 - Recibos Z-QEA v2: SHA3-256 + ML-DSA-44 (FIPS 204) + entropia quântica atestada
 
 📦 Todos os apps têm botão **Sponsor** (FUNDING.yml).
+
+## 🎁 Teste grátis em hardware quântico real
+
+- 🌍 [Varredura mundial de laboratórios quânticos + condições do plano IBM](https://github.com/SerenaSolutions/ravi-quantuno/blob/main/docs/laboratorios-quanticos.md)
+- 🎁 [Guia: rode os 5 apps + o Ravi Quantuno de graça numa conta free da IBM](https://github.com/SerenaSolutions/ravi-quantuno/blob/main/docs/teste-gratis-ibm.md)
