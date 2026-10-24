@@ -12,13 +12,8 @@ O único agente que opera **clássico + quântico + pós-quântico** num só ker
 ## ⚛️ A stack
 
 - **[ZEPHIRUM](https://github.com/SerenaSolutions/zephirum-lang)** — a linguagem de decisão trivalente (sintaxe Lisp, 1/0/REFUSED)
-- **5 apps no [Marketplace](https://github.com/marketplace?query=SerenaSolutions)**: ZQ-GATE, Z-Anyon Lab, ZY-AI-RAG, Z-QEA Sealer, Z-QEA Verifier — validados no computador quântico real da IBM
+- **5 apps no [Marketplace](https://github.com/marketplace?query=SerenaSolutions)**: ZQ-GATE, Z-Anyon Lab, ZY-AI-RAG, Z-QEA Sealer, Z-QEA Verifier — resultados de hardware sempre com job ID e recibo selado
 - **[quantum-poc](https://github.com/SerenaSolutions/quantum-poc)** — confronto com 6 linguagens quânticas (Qiskit, OpenQASM 3, Cirq, PennyLane, Braket, Q#), hardware real, recibos PQ
 - Recibos Z-QEA v2: SHA3-256 + ML-DSA-44 (FIPS 204) + entropia quântica atestada
 
 📦 Todos os apps têm botão **Sponsor** (FUNDING.yml).
-
-## 🎁 Teste grátis em hardware quântico real
-
-- 🌍 [Varredura mundial de laboratórios quânticos + condições do plano IBM](https://github.com/SerenaSolutions/ravi-quantuno/blob/main/docs/laboratorios-quanticos.md)
-- 🎁 [Guia: rode os 5 apps + o Ravi Quantuno de graça numa conta free da IBM](https://github.com/SerenaSolutions/ravi-quantuno/blob/main/docs/teste-gratis-ibm.md)
