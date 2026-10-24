@@ -15,5 +15,6 @@ O único agente que opera **clássico + quântico + pós-quântico** num só ker
 - **5 apps no [Marketplace](https://github.com/marketplace?query=SerenaSolutions)**: ZQ-GATE, Z-Anyon Lab, ZY-AI-RAG, Z-QEA Sealer, Z-QEA Verifier — resultados de hardware sempre com job ID e recibo selado
 - **[quantum-poc](https://github.com/SerenaSolutions/quantum-poc)** — confronto com 6 linguagens quânticas (Qiskit, OpenQASM 3, Cirq, PennyLane, Braket, Q#), hardware real, recibos PQ
 - Recibos Z-QEA v2: SHA3-256 + ML-DSA-44 (FIPS 204) + entropia quântica atestada
+- Z-KEM (camada 3): ML-KEM-768 (FIPS 203) + AES-256-GCM — confidencialidade pós-quântica dos dados de decisão
 
 📦 Todos os apps têm botão **Sponsor** (FUNDING.yml).
